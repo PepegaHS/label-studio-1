@@ -1,0 +1,85 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "BUK_TADS"
+    },
+    {
+      "id": 1,
+      "name": "BUK_TELAR"
+    },
+    {
+      "id": 2,
+      "name": "abrams"
+    },
+    {
+      "id": 3,
+      "name": "ah\/uh60"
+    },
+    {
+      "id": 4,
+      "name": "ah64"
+    },
+    {
+      "id": 5,
+      "name": "bmp2"
+    },
+    {
+      "id": 6,
+      "name": "bradley"
+    },
+    {
+      "id": 7,
+      "name": "ec665"
+    },
+    {
+      "id": 8,
+      "name": "ka50"
+    },
+    {
+      "id": 9,
+      "name": "leopard2"
+    },
+    {
+      "id": 10,
+      "name": "mi24"
+    },
+    {
+      "id": 11,
+      "name": "mi28"
+    },
+    {
+      "id": 12,
+      "name": "mi8"
+    },
+    {
+      "id": 13,
+      "name": "spaa_TEL"
+    },
+    {
+      "id": 14,
+      "name": "spaa_gepard"
+    },
+    {
+      "id": 15,
+      "name": "spaa_tads"
+    },
+    {
+      "id": 16,
+      "name": "spaa_zsu-23"
+    },
+    {
+      "id": 17,
+      "name": "t-80u"
+    },
+    {
+      "id": 18,
+      "name": "t72b"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
